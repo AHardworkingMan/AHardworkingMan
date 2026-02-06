@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-✨ **HI** ✨
+✨ HI ✨
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHardworkingMan&show_icons=true&theme=merko)
