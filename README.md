@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**AHardworkingMan/AHardworkingMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SudoJacky/SudoJacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 ✨ HI ✨
 
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AHardworkingMan&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SudoJacky&show_icons=true&theme=merko)
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AHardworkingMan/AHardworkingMan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AHardworkingMan/AHardworkingMan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AHardworkingMan/AHardworkingMan/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoJacky/SudoJacky/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudoJacky/SudoJacky/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SudoJacky/SudoJacky/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
