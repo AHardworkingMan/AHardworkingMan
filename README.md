@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Currently, I am a backend engineer working at Samsung Electronics.
+
+I am interested in various technologies in agent applications, such as orchestration, raging, and memory, and I try to optimize and innovate them.
+
+I enjoy learning new things through hands-on experience.
+
 **Visit my homepage to see what I'm doing.**
 
 [HOME PAGE: SudoJacky.github.io](https://sudojacky.github.io/)
