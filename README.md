@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Jacky!
 
 Currently, I am a backend engineer working at Samsung Electronics.
 
@@ -6,9 +6,8 @@ I am interested in various technologies in agent applications, such as orchestra
 
 I enjoy learning new things through hands-on experience.
 
-**Visit my homepage to see what I'm doing.**
-
-[HOME PAGE: SudoJacky.github.io](https://sudojacky.github.io/)
+🌐Personal Website: [sudojacky.github.io](https://sudojacky.github.io/)\
+📧How to reach me: zhihao_gu@foxmail.com
 
 <!--
 **SudoJacky/SudoJacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
