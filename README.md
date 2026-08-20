@@ -2,7 +2,7 @@
 
 Currently, I am a backend engineer working at Samsung Electronics.
 
-I am interested in various technologies in agent applications, such as orchestration, raging, and memory, and I try to optimize and innovate them.
+I am interested in various technologies in agent applications, such as orchestration, RAG, and memory, and I try to optimize and innovate them.
 
 I enjoy learning new things through hands-on experience.
 
